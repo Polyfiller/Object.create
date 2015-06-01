@@ -1,0 +1,27 @@
+{
+    "name": "object.create",
+    "version": "1.0.0",
+    "description": "Object.create replacement fixes bug in IE9-11",
+    "keywords": [
+        "polyfill",
+        "fix",
+        "ES5",
+        "IE9",
+        "IE10",
+        "IE11"
+    ],
+    "license": "MIT",
+    "author": "Polyfiller collaborators",
+    "homepage": "https://github.com/Polyfiller/Object.create",
+    "bugs": {
+        "url": "https://github.com/Polyfiller/Object.create/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Polyfiller/Object.create.git"
+    },
+    "files": [
+        "index.js"
+    ],
+    "main": "index.js"
+}
