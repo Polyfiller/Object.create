@@ -1,6 +1,6 @@
 # Object.create fix for IE9-11
 
-This fixes the bug: [All IE Objects Are Kinda Broken](webreflection.blogspot.com/2014/04/all-ie-objects-are-broken.html)
+This fixes the bug: [All IE Objects Are Kinda Broken](http://webreflection.blogspot.ru/2014/04/all-ie-objects-are-broken.html)
 
 This is designed to be run in a browser. It does not work in a Node.js or worker environment.
 
