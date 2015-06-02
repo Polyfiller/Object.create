@@ -1,6 +1,6 @@
 {
     "name": "object.create",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Object.create replacement fixes bug in IE9-11",
     "keywords": [
         "polyfill",

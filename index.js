@@ -12,7 +12,7 @@ Object.create && function () {
     var ObjectCreate = Object.create;
     var descriptor = Object.getOwnPropertyDescriptor(Object, 'create');
 
-    descriptor.value = function (prototype, properties) {
+    descriptor.value = function create(prototype, properties) {
 
         var object = ObjectCreate(prototype, properties);
 
